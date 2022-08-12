@@ -1,37 +1,144 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admissão 2023 - GerminaTECH</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            line-height: 1.6rem;
+        }
+        body{
+            background-color: black;
+            color: white;
+        }
+        header{
+            text-align: center;
+        }
+        img{
+            width: 40%;
+        }
+        h1{
+            color: #45bb55;
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+        hr{
+            border-color: #45bb55;
+            width: 60%;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+        table{
+            width: 60%;
+            margin: auto;
+        }
+        p{
+            margin:10px 0;
+            font-size: 1.2rem;
+        }
+        ol{
+            margin-left: 5%;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        ul{
+            margin: 30px 0px 5px 30px;
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+        strong{
+            color: #45bb55;
+            font-size: 1.3rem;
+            letter-spacing: 0.15rem;
+        }
+        iframe{
+            display: block;
+            margin: 10px 0;
+        }
+        span a{
+            color: #45bb55;
+            font-size: 1.3rem;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="germinatech.png" alt="logo-germinatech">
+            
+        <h1>
+            INSTRUÇÕES PARA O CURSO PREPARATÓRIO DE PYTHON
+        </h1>
+    </header>
+        
+    <hr>
 
-You can use the [editor on GitHub](https://github.com/germinatech/desafios_revisao/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/germinatech/desafios_revisao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <table>
+        <tr>
+            <td>
+                <p>
+                    Olá <strong>Leonardo Ferrarezi</strong>. 
+                </p>
+                <p style="text-align: justify;">
+                    Você está recebendo instruções sobre o curso preparatório de Python.
+                </p>
+                <p>
+                    Para o curso, usamos uma plataforma própria, a <a href="" style="color: yellow; font-size: 25px;">PLATAFORMA ODETTE</a>. <br> Nesse <a href=""><strong style="font-size: 30px;">tutorial</strong></a>, você encontra informações para seu primeiro acesso na plataforma.
+                </p>
+                <br>
+            </td>
+        </tr>
+                   
+        <tr>
+            <td>
+                <h2>
+                    Abaixo, algumas informações importantes sobre o curso:
+                </h2>
+                <ul>
+                    <li>
+                        <p><strong>Plataforma Odette</strong>: Você receberá conteúdos semanalmente, como vídeos e desafios. Esse conteúdo deve ser assistido antes dos encontros presenciais.</p>
+                    </li>
+                    <li>
+                        <p><strong>Início das atividades presenciais</strong>: 18/08/2022 das 18:30h as 20:30h. <b>PARA TODOS OS ALUNOS.</b></p>
+                    </li>
+                    <li>
+                        <p><strong>Jantar</strong>: Das 18:00h as 18:30h.</p>
+                    </li>
+                    <li>
+                        <p><strong>Endereço</strong>: <a href="https://goo.gl/maps/cxYT6vXrmN7dSbFN8">Rua Irineu José Bordon, 335 – Vila Jaguara, SP</a></p>
+                        
+                    </li>
+                    <li>
+                        <p><strong>O que levar nos encontros presenciais</strong>: Leve seu notebook para configurar o ambiente para o curso. Caso você tenha marcado a opção informando não ter um notebook, a escola TENTARÁ oferecer um nos dias presenciais.</p>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+    
+        <tr>
+            <td>
+               
+                <p>
+                    As demais informações serão passadas na quinta (18/08/2022). Até lá!
+                </p>
+            </td>
+        </tr>  
+      
+        <tr>
+            <td>
+                <p>
+                    Atenciosamente,
+                </p>
+                <p >
+                    A direção. <br> São Paulo, 12 de agosto de 2022.
+                </p>
+            </td>
+        </tr>
+        
+    </table>
+</body>
+</html>
